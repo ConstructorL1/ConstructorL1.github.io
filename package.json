@@ -1,0 +1,27 @@
+{
+  "name": "ytseng-constructor",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "clean": "shx rm -rf dist output pkg",
+    "release": "npm run clean && npm run docs:build && npm run release:pack && echo succese",
+    "release:pack": "cross-var tar-pack-cli -f pkg/$npm_package_name.tgz output",
+    "deploy": "bash deploy.sh"
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.5.1",
+    "cross-var": "^1.1.0",
+    "tar-pack-cli": "^2.0.1",
+    "shx": "^0.3.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
