@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-06-15T03:29:18.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Cn3Or3BxiyAevzS4XRVZ" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-15T03:31:38.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="nbos67fNF_i4U2eJORJD" version="13.0.1" type="github">
   <diagram id="U1f1iOyZuHphCbSQjjmQ" name="线路工程施工顺序">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ytEXSWHGDXnanVehtBDF-74" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="60" width="470" height="60" as="geometry" />
+          <mxGeometry x="570" y="60" width="470" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ytEXSWHGDXnanVehtBDF-1" value="路由复测&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="115" y="225" width="18.49" height="91" as="geometry" />
@@ -226,16 +226,19 @@
           <mxGeometry x="300" y="165" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ytEXSWHGDXnanVehtBDF-71" value="管道线路工程" style="rounded=0;whiteSpace=wrap;html=1;direction=west;horizontal=1;verticalAlign=middle;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="928" y="79" width="100" height="20" as="geometry" />
+          <mxGeometry x="928" y="74" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ytEXSWHGDXnanVehtBDF-72" value="架空线路工程" style="rounded=0;whiteSpace=wrap;html=1;direction=west;horizontal=1;verticalAlign=middle;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="698" y="79" width="100" height="20" as="geometry" />
+          <mxGeometry x="698" y="74" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ytEXSWHGDXnanVehtBDF-73" value="直买光缆线路工程" style="rounded=0;whiteSpace=wrap;html=1;direction=west;horizontal=1;verticalAlign=middle;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="813" y="79" width="100" height="20" as="geometry" />
+        <mxCell id="ytEXSWHGDXnanVehtBDF-73" value="直埋光缆线路工程" style="rounded=0;whiteSpace=wrap;html=1;direction=west;horizontal=1;verticalAlign=middle;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="813" y="74" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ubCEMEmYxDRO1DP1UkU_-1" value="线路工程通用" style="rounded=0;whiteSpace=wrap;html=1;direction=west;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="585" y="79" width="100" height="20" as="geometry" />
+          <mxGeometry x="585" y="74" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ubCEMEmYxDRO1DP1UkU_-2" value="特别说明：&lt;span style=&quot;font-weight: normal&quot;&gt;【光缆接续】前后的通用连线不适用于直埋光缆线路工程。&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="585" y="100" width="445" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
