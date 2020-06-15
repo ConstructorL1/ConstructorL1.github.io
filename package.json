@@ -15,10 +15,11 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "vuepress": "^1.5.1",
     "cross-var": "^1.1.0",
+    "shx": "^0.3.2",
     "tar-pack-cli": "^2.0.1",
-    "shx": "^0.3.2"
+    "vuepress": "^1.5.1",
+    "vuepress-plugin-auto-sidebar": "^1.4.1"
   },
   "keywords": [],
   "author": "",
